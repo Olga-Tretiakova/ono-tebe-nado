@@ -175,9 +175,9 @@ h3 {
   padding: 12px 32px 11px 31px;
   color: #fff;
   font: normal 22px "Raleway", "Arial", sans-serif;
+  line-height: 25.83px;
   text-transform: uppercase;
   background: transparent;
-  line-height: 25.83px;
 }
 
 .lots {
@@ -375,9 +375,9 @@ h3 {
 }
 
 .address__location {
+  padding-top: 1px;
   line-height: 24.3px;
   letter-spacing: 0.1px;
-  padding-top: 1px;
 }
 
 .footer__menu {
