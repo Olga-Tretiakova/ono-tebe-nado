@@ -127,8 +127,8 @@ h3 {
 
 .aligned-text_center {
   padding-top: 20px;
-  padding-left: 286px;
   line-height: 100px;
+  text-align: center;
 }
 
 .aligned-text_right {
@@ -185,7 +185,6 @@ h3 {
   box-sizing: border-box;
   width: 100vw;
   max-width: 1052px;
-  min-height: 692px;
   margin: 0;
   padding: 179px 24px 147.5px;
   color: #000;
